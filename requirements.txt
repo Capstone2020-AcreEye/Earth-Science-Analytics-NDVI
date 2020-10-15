@@ -1,0 +1,9 @@
+matplotlib
+numpy
+# GDAL - The whl file needs to be downloaded on the website 
+# https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
+# rasterio - The whl file needs to be downloaded on the website
+# https://www.lfd.uci.edu/~gohlke/pythonlibs/#rasterio
+pipwin
+geopandas
+earthpy
